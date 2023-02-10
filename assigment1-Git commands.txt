@@ -1,0 +1,25 @@
+ 1  sudo apt update
+    2  clear
+    3  mkdir folder1
+    4  ls
+    5  cd folder1
+    6  git init
+    7  nano code.txt
+    8  ls
+    9  nano log.txt
+   10  ls
+   11  nano output.txt
+   12  ls
+   13  git status
+   14  clear
+   15  git add code.txt
+   16  git add output.txt
+   17  git status
+   18  clear
+   19  git commit -m "first commit git assigment"
+   20  git branch
+   21  git status
+   22  clear
+   23  git branch
+   24  git remote add origin https://github.com/Shahzebgit1/test1.git
+   25  git push origin master
