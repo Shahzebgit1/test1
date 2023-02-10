@@ -1,0 +1,45 @@
+ 1  sudo apt update
+    2  ls
+    3  clear
+    4  mkdir folder2
+    5  cd folder2
+    6  git init
+    7  clear
+    8  nano feature1.txt
+    9  nano feature2.txt
+   10  ls
+   11  git add
+   12  git add .
+   13  git commit -m "hello"
+   14  clear
+   15  gt branch
+   16  clear
+   17  git branch
+   18  git branch devolop
+   19  git branch
+   20  git branch feature1
+   21  git branch feature2
+   22  git branch
+   23  git checkout devolop
+   24  git branch
+   25  clear
+   26  nano develop.txt
+   27  ls
+   28  git branch
+   29  git status
+   30  git stash -u
+   31  git checkout feature1
+   32  git branch
+   33  clear
+   34  nano new.txt
+   35  git add .
+   36  git commit -m "hello"
+   37  clear
+   38  git checkout devolop
+   39  git branch
+   40  ls
+   41  git stash pop
+   42  git add .
+   43  git commit "hii"
+   44  git commit -m "hii"
+   45  clear
